@@ -1,4 +1,4 @@
-# Hexo Configuration
+﻿# Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
@@ -8,7 +8,7 @@ subtitle: 'By InfintyTech'
 description: ''
 keywords:
 author: Waterdrop142857
-language: Zh-CN
+language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
