@@ -5,15 +5,16 @@
 # Site
 title: 世纪日报
 subtitle: 'By InfintyTech'
-description: ''
+description: '一个用于发表各种稀奇古怪新闻的网站（仅Qz1z 707 及 Qz1z信息组）'
 keywords:
 author: Waterdrop142857
-language: Zh-CN
+language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://waterdrop142857.github.io/MyNews
+# url: https://www.example.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -102,4 +103,7 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:Waterdrop142857/MyNews.git #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+  branch: gh-pages
+  message: Site Updated
