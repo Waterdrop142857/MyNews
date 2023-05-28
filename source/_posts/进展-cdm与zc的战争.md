@@ -8,7 +8,7 @@ tags:
 
 ## 更新
 
-继上期报道后,zc又对[她的网站](ymmmer001.github.io)进行了更新，将内容从上次的“通缉等腰三角形”改成了"揭秘！果冻教自相残杀背后的隐情"，并对cdm进行了攻击。而cdm也将[催逝日报](kroeseir.github.io/news/)的[404页面](https://kroeseir.github.io/cyb)进行了改变，变成了:
+继上期报道后,zc又对[她的网站](https://ymmmer001.github.io)进行了更新，将内容从上次的“通缉等腰三角形”改成了"揭秘！果冻教自相残杀背后的隐情"，并对cdm进行了攻击。而cdm也将[催逝日报](https://kroeseir.github.io/news/)的[404页面](https://kroeseir.github.io/cyb)进行了改变，变成了:
 
 # 404
 
